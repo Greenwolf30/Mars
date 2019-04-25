@@ -51,6 +51,25 @@ body{
     
     
 }
+.thirdTab{
+
+color: #db9833;
+    border:20px;
+    background-color:darkslategrey;
+    padding:20px;
+    border-radius:5px;
+    height:1100px;
+    width:1100px;
+    font-size: 17px;
+    text-align: left;
+    line-height:40px;
+    
+    text-indent: 30px;
+    opacity:.7;
+    list-style-type: none;
+    text-indent:40px;
+    margin-left:10px;
+}
 h1{
     color:rgb(68, 88, 34);
 
@@ -96,6 +115,7 @@ h2{
     width:100%;
    
     bottom:100%;
+    bottom:0px;
 
 
 }
@@ -242,6 +262,12 @@ border-radius: 5px;
 
 
 }
+.ad{
+    position:absolute;
+    top:1000px;
+    right:0px;
+
+}
 h4{
     text-decoration-line: underline;
 }
@@ -302,7 +328,7 @@ a:active {
     width:40px;
     height:40px;
     border:0px;
-    border-radius:5px;
+    border-radius:20px;
     opacity:.5;
 
 }
@@ -314,7 +340,7 @@ a:active {
     width:40px;
     height:40px;
     border:0px;
-    border-radius:5px;
+    border-radius:15px;
     opacity:.5;
 
 }
@@ -328,7 +354,7 @@ position:absolute;
     width:40px;
     height:40px;
     border:0px;
-    border-radius:5px;
+    border-radius:15px;
     opacity:.5;
 
 }
