@@ -166,11 +166,11 @@ h2{
 
 }
  
-#dropdownMenu ul li:hover{
+/*#dropdownMenu ul li:hover{
     background-color: darkGreen;
     opacity:.5;
     border-radius:5px;
-}
+}*/
 #dropdownMenu ul ul{
     display:none;
 }
